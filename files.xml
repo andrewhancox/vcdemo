@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="32">
+    <contenthash>a8aa4ee7fa9603bdcfbd8040e447d7f98907a872</contenthash>
+    <contextid>45</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Batman_(DC_Rebirth_version).png</filename>
+    <userid>2</userid>
+    <filesize>111447</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1594375260</timecreated>
+    <timemodified>1594375281</timemodified>
+    <source>Batman_(DC_Rebirth_version).png</source>
+    <author>Admin User</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="33">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>45</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>2</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1594375260</timecreated>
+    <timemodified>1594375281</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>
