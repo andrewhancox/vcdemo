@@ -4,13 +4,13 @@
     <name>Demonstrate the version control plugin</name>
     <intro>&lt;p&gt;This page has been cerated to all me to demonstrate the version control plugin&lt;br&gt;&lt;/p&gt;</intro>
     <introformat>1</introformat>
-    <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.google.com" target="_blank"&gt;http://www.google.com&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Batman_%28DC_Rebirth_version%29.png" alt="Batman" width="241" height="412" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <content>&lt;p&gt;Lorem ipsum dolor and some additional sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip text has been added ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.bing.com" target="_blank"&gt;http://www.google.com&lt;/a&gt;&lt;/p&gt;</content>
     <contentformat>1</contentformat>
     <legacyfiles>0</legacyfiles>
     <legacyfileslast>$@NULL@$</legacyfileslast>
     <display>5</display>
     <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
-    <revision>1</revision>
-    <timemodified>1594375281</timemodified>
+    <revision>2</revision>
+    <timemodified>1594375405</timemodified>
   </page>
 </activity>
